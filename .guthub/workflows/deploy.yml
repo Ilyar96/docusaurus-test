@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - "docusaurus-test/**"
     # Review gh actions docs if you want to further define triggers, paths, etc
