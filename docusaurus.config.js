@@ -11,7 +11,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: "Hash2Cash",
-	tagline: "Тестовая документация проекта",
+	tagline: "Тестовая документация проекта hash2cash",
 	favicon: "img/favicon.ico",
 
 	// Set the production url of your site here
